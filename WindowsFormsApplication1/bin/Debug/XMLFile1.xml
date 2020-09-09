@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<Table name ="x">
+
+  <Row>
+    
+    <Column name="id"> 1 </Column>
+    <Column name="Student"> ahmed </Column>
+    <Column name="Total"> 85 </Column>
+    
+  </Row>
+
+
+
+  <Row >
+
+    <Column name="id"> 2 </Column>
+    <Column name="Student"> ali </Column>
+    <Column name="Total"> 100 </Column>
+    
+  </Row>
+
+
+  <Row >
+
+    <Column name="id"> 3 </Column>
+    <Column name="Student"> Mai </Column>
+    <Column name="Total"> 90 </Column>
+
+  </Row>
+  
+  <Row >
+
+    <Column name="id"> 4 </Column>
+    <Column name="Student"> noha </Column>
+    <Column name="Total"> 70 </Column>
+
+  </Row>
+
+
+  <Row >
+
+    <Column name="id"> 5 </Column>
+    <Column name="Student"> alaa </Column>
+    <Column name="Total"> 60 </Column>
+
+  </Row>
+
+  <Row >
+
+    <Column name="id"> 6 </Column>
+    <Column name="Student"> ola </Column>
+    <Column name="Total"> 85 </Column>
+
+  </Row>
+
+
+</Table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
